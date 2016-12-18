@@ -1,9 +1,5 @@
 // posled.cpp: определяет точку входа для консольного приложения.
 //
-
-#include "stdafx.h"
-
-#include "stdafx.h"
 #include <cstdio>
 #include <iostream>
 using namespace std;
